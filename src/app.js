@@ -49,6 +49,24 @@ let products = [
         name: 'Чорний чай “Бризки Шампанського”',
         image: 'img/6.PNG',
         price: 120
+    },
+    {
+        id: 7,
+        name: 'Набір №1 boom-смажених горіхів, 950г',
+        image: 'img/7.PNG',
+        price: 740
+    },
+    {
+        id: 8,
+        name: 'Набір №2 boom-сирих горіхів, 940г',
+        image: 'img/8.PNG',
+        price: 920
+    },
+    {
+        id: 9,
+        name: 'Набір №3 Premium мікс смажених і сирих, 940г',
+        image: 'img/9.PNG',
+        price: 810
     }
 ];
 let listCards  = [];
